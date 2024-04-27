@@ -12,7 +12,7 @@ const Homepage = () => {
       {/* Text */}
       <div className="h-1/2 flex flex-col lg:h-full lg:w-1/2 gap-8 items-center justify-center pl-8">
         {/* Baslik */}
-        <h1 className="text-4xl md:text-6xl font-bold text-white">Harun's Portfolio</h1>
+        <h1 className="text-4xl md:text-6xl font-bold text-white">Harun&apos;s Portfolio</h1>
         {/* Aciklama */}
         <p className="md:text-xl text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
           Rerum quisquam saepe, officia adipisci consequatur expedita, 
