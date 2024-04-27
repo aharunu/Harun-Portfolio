@@ -6,9 +6,10 @@ import NavLink from "./navLink";
 
 const links = [
     { url: "/", title:"Home"},
-    {url: "/about", title:"About"},
+    {url: "/blog", title:"Blog"},
     {url: "/portfolio", title:"Portfolio"},
-    {url: "/contact", title:"Contact"},
+    {url: "/about", title:"About"},
+    {url: "/contact", title:"Contact"}
 ];
 
 const Navbar = () => {

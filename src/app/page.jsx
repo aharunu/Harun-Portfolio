@@ -12,13 +12,13 @@ const Homepage = () => {
       {/* Text */}
       <div className="h-1/2 flex flex-col lg:h-full lg:w-1/2 gap-8 items-center justify-center pl-8">
         {/* Baslik */}
-        <h1 className="text-4xl md:text-6xl font-bold text-white">Harun&apos;s Portfolio</h1>
+        <h1 className="text-4xl md:text-6xl font-bold text-white">Harun's Portfolio</h1>
         {/* Aciklama */}
         <p className="md:text-xl text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
           Rerum quisquam saepe, officia adipisci consequatur expedita, 
           tempore et, quidem sunt iusto aliquid eaque. 
           Dolore error repellendus dicta excepturi labore libero ipsa!</p>
-        {/* Button */}
+        {/* Buton */}
         <div className="flex gap-4 w-full">
           <Link href="/portfolio">
             <button className="p-4 rounded-lg ring-2 ring-black bg-black text-white">View My Work</button>
